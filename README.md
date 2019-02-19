@@ -1,9 +1,5 @@
 # context-aware-ABS
-# complete results of ROUGE155 on word-based model
-
-
-
----------------------------------------------
+# complete results of ROUGE155 on word-based mode
 
 
 1 ROUGE-1 Average_R: 0.50663 (95%-conf.int. 0.48397 - 0.53003)
