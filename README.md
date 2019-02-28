@@ -1,4 +1,6 @@
 ## context-aware-ABS
+This is the codes for the paper: Effective Abstractive Summarization with a Context-Aware Attention Mechanism. After review, I will upload the complete version.
+For now, I present examples on three datasets and the full resluts of ROUGE155.
 
 ### CNN/Daily mail
 #### example in paper with complete source text of 400 tokens
@@ -24,7 +26,7 @@ ref4:unk faces unk unk unk unk turmoil in host unk
 Ours:finance officials from 14 countries advised unk battered economies on unk to adopt further reforms in their effort to restore
 ```
 
-#### complete results of ROUGE155 on LCSTS（word-based）
+#### complete results of ROUGE155 on DUC-2004
 
 
 ### LCSTS
