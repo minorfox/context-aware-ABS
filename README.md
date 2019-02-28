@@ -26,7 +26,41 @@ ref4:unk faces unk unk unk unk turmoil in host unk
 Ours:finance officials from 14 countries advised unk battered economies on unk to adopt further reforms in their effort to restore
 ```
 
-#### complete results of ROUGE155 on DUC-2004
+#### complete results of ROUGE155 on DUC-2004 (After 2 days, we have a little raise than paper record)
+```
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.50492 (95%-conf.int. 0.49392 - 0.51572)
+1 ROUGE-1 Average_P: 0.18694 (95%-conf.int. 0.18237 - 0.19161)
+1 ROUGE-1 Average_F: 0.27188 (95%-conf.int. 0.26585 - 0.27803)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.20502 (95%-conf.int. 0.19604 - 0.21420)
+1 ROUGE-2 Average_P: 0.07095 (95%-conf.int. 0.06767 - 0.07425)
+1 ROUGE-2 Average_F: 0.10498 (95%-conf.int. 0.10032 - 0.10968)
+---------------------------------------------
+1 ROUGE-3 Average_R: 0.09053 (95%-conf.int. 0.08383 - 0.09726)
+1 ROUGE-3 Average_P: 0.02882 (95%-conf.int. 0.02664 - 0.03107)
+1 ROUGE-3 Average_F: 0.04351 (95%-conf.int. 0.04038 - 0.04680)
+---------------------------------------------
+1 ROUGE-4 Average_R: 0.04124 (95%-conf.int. 0.03626 - 0.04648)
+1 ROUGE-4 Average_P: 0.01182 (95%-conf.int. 0.01038 - 0.01332)
+1 ROUGE-4 Average_F: 0.01832 (95%-conf.int. 0.01611 - 0.02063)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.47046 (95%-conf.int. 0.46086 - 0.47971)
+1 ROUGE-L Average_P: 0.17383 (95%-conf.int. 0.16996 - 0.17776)
+1 ROUGE-L Average_F: 0.25305 (95%-conf.int. 0.24782 - 0.25833)
+---------------------------------------------
+1 ROUGE-W-1.2 Average_R: 0.25932 (95%-conf.int. 0.25353 - 0.26465)
+1 ROUGE-W-1.2 Average_P: 0.15334 (95%-conf.int. 0.14985 - 0.15678)
+1 ROUGE-W-1.2 Average_F: 0.19186 (95%-conf.int. 0.18780 - 0.19578)
+---------------------------------------------
+1 ROUGE-S* Average_R: 0.25912 (95%-conf.int. 0.24842 - 0.26901)
+1 ROUGE-S* Average_P: 0.03422 (95%-conf.int. 0.03256 - 0.03594)
+1 ROUGE-S* Average_F: 0.05983 (95%-conf.int. 0.05715 - 0.06259)
+---------------------------------------------
+1 ROUGE-SU* Average_R: 0.29771 (95%-conf.int. 0.28681 - 0.30783)
+1 ROUGE-SU* Average_P: 0.04351 (95%-conf.int. 0.04162 - 0.04548)
+1 ROUGE-SU* Average_F: 0.07519 (95%-conf.int. 0.07223 - 0.07820)
+```
 
 
 ### LCSTS
