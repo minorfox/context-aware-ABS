@@ -12,6 +12,40 @@ Ours:chris copeland was stabbed after leaving a trendy new york nightclub early 
 ```
 
 #### complete results of ROUGE155 on CNN/Daily mail
+```
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.35698 (95%-conf.int. 0.35457 - 0.35942)
+1 ROUGE-1 Average_P: 0.39254 (95%-conf.int. 0.38976 - 0.39505)
+1 ROUGE-1 Average_F: 0.36706 (95%-conf.int. 0.36455 - 0.36929)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.15257 (95%-conf.int. 0.15035 - 0.15475)
+1 ROUGE-2 Average_P: 0.16880 (95%-conf.int. 0.16628 - 0.17130)
+1 ROUGE-2 Average_F: 0.15725 (95%-conf.int. 0.15493 - 0.15951)
+---------------------------------------------
+1 ROUGE-3 Average_R: 0.08659 (95%-conf.int. 0.08465 - 0.08859)
+1 ROUGE-3 Average_P: 0.09632 (95%-conf.int. 0.09411 - 0.09847)
+1 ROUGE-3 Average_F: 0.08940 (95%-conf.int. 0.08739 - 0.09142)
+---------------------------------------------
+1 ROUGE-4 Average_R: 0.05676 (95%-conf.int. 0.05504 - 0.05846)
+1 ROUGE-4 Average_P: 0.06345 (95%-conf.int. 0.06144 - 0.06542)
+1 ROUGE-4 Average_F: 0.05868 (95%-conf.int. 0.05688 - 0.06049)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.25970 (95%-conf.int. 0.25743 - 0.26185)
+1 ROUGE-L Average_P: 0.28651 (95%-conf.int. 0.28391 - 0.28896)
+1 ROUGE-L Average_F: 0.26728 (95%-conf.int. 0.26500 - 0.26946)
+---------------------------------------------
+1 ROUGE-W-1.2 Average_R: 0.10037 (95%-conf.int. 0.09945 - 0.10127)
+1 ROUGE-W-1.2 Average_P: 0.23382 (95%-conf.int. 0.23167 - 0.23599)
+1 ROUGE-W-1.2 Average_F: 0.13776 (95%-conf.int. 0.13654 - 0.13892)
+---------------------------------------------
+1 ROUGE-S* Average_R: 0.11962 (95%-conf.int. 0.11781 - 0.12137)
+1 ROUGE-S* Average_P: 0.14481 (95%-conf.int. 0.14260 - 0.14697)
+1 ROUGE-S* Average_F: 0.12271 (95%-conf.int. 0.12093 - 0.12441)
+---------------------------------------------
+1 ROUGE-SU* Average_R: 0.13064 (95%-conf.int. 0.12878 - 0.13238)
+1 ROUGE-SU* Average_P: 0.15765 (95%-conf.int. 0.15540 - 0.15988)
+1 ROUGE-SU* Average_F: 0.13405 (95%-conf.int. 0.13226 - 0.13574)
+```
 
 
 ### DUC-2004 
